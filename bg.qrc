@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="background">
+    <file>ui_source/water1.png</file>
+    <file>ui_source/water2.png</file>
+    <file>ui_source/water3.png</file>
+  </qresource>
+  <qresource prefix="symbols">
+    <file>ui_source/error.jpeg</file>
+    <file>ui_source/login.png</file>
+  </qresource>
+</RCC>
